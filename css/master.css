@@ -6,6 +6,11 @@ img {
   max-width: 100%;
 }
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
 .red{
     background-color: #e74c3c;
 }
